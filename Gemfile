@@ -2,6 +2,8 @@ source 'https://rubygems.org'
 ruby '2.2.2'
 #ruby-gemset=railstutorial_rails_4_0
 
+gem 'rb-readline'
+
 gem 'rails', '4.0.5'
 
 group :development do
